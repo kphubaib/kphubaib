@@ -4,13 +4,12 @@
 
 ---
 
-I work as a Desktop Engineer at IIM Calicut Campus, supporting Linux and Windows systems day to day.
-Outside work I practise Linux on VirtualBox VMs and AWS EC2 instances to sharpen my skills.
-Currently preparing for RHCSA and learning DevOps foundations through Abhishek Veeramalla's YouTube course.
+Currently enrolled in the **Program In AI Driven Data Analytics**, focusing on data analytics — Power Query, DAX, SQL/Python.
 
 - 💼 Desktop Engineer @ Times Pro – IIM Calicut
-- 🎯 Goal: Linux System Administrator / DevOps Engineer
-- 📧 hubaibkphubaib786@gmail.com
+- 📊 Currently: Program In AI Driven Data Analytics
+- 🎯 Goal: Data Analyst
+- 📧 ubybkp@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hubaibkp)
 
 ---
@@ -35,6 +34,7 @@ Currently preparing for RHCSA and learning DevOps foundations through Abhishek V
 **Cloud:** AWS EC2, Security Groups, Key Pairs, AWS CLI, VirtualBox  
 **Scripting:** Bash, Cron Jobs, Automation Scripts  
 **Networking:** DHCP, DNS, VLAN, Firewall Basics  
+**Data Analytics:** *(in progress — Program In AI Driven Data Analytics)*
 
 ---
 
