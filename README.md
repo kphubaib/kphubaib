@@ -1,6 +1,6 @@
 # Hi, I'm Hubaib KP 👋
 
-**Desktop Engineer | Linux & Cloud Practitioner**
+**Desktop Engineer | Linux & Cloud Practitioner | AI Driven Data Analytics**
 
 ---
 
