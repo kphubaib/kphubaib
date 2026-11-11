@@ -18,6 +18,7 @@ Currently enrolled in the **Program In AI Driven Data Analytics**, focusing on d
 
 | Repo | What I practised |
 |---|---|
+| [AI-Driven Data Analytics Program – Entri](https://github.com/kphubaib/Entri---Program-In-AI-Driven-Data-Analytics) | documents my learning journey, coursework, assignments, practical exercises, assessments, and projects throughout the program|
 | [Linux Server Setup Foundation](https://github.com/kphubaib/Linux-Server-Setup-Foundation-) | Deploy and configure a Linux server from scratch |
 | [LVM Storage Management](https://github.com/kphubaib/LVM-Storage-Management) | Create and extend storage using LVM |
 | [Web Server Deployment](https://github.com/kphubaib/Web-Server-Deployment) | Install, configure and run Apache/Nginx |
